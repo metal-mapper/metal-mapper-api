@@ -1,0 +1,9 @@
+const mongoose = require('mongoose');
+
+const venueSchema = new mongoose.Schema({
+  rating: { type: String, require: true },
+});
+
+const PropertyListingModel = mongoose.model('ProperyListing', PropertyListingSchema);
+
+module.exports = PropertyListingModel;

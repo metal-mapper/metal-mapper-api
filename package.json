@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/metal-mapper/metal-mapper-api/issues"
   },
-  "homepage": "https://github.com/metal-mapper/metal-mapper-api#readme"
+  "homepage": "https://github.com/metal-mapper/metal-mapper-api#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
