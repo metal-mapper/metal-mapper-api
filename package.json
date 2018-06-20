@@ -1,0 +1,19 @@
+{
+  "name": "metal-mapper-api",
+  "version": "1.0.0",
+  "description": "MCR Codes final project from Helena, Sophie, and Kirsty",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metal-mapper/metal-mapper-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metal-mapper/metal-mapper-api/issues"
+  },
+  "homepage": "https://github.com/metal-mapper/metal-mapper-api#readme"
+}
