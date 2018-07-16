@@ -4,6 +4,7 @@
   "description": "MCR Codes final project from Helena, Sophie, and Kirsty",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest"
   },
   "repository": {
@@ -17,6 +18,12 @@
   },
   "homepage": "https://github.com/metal-mapper/metal-mapper-api#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "express-list-routes": "^0.1.4",
+    "express-restify-mongoose": "^5.0.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.2.4",
+    "restify": "^7.2.1"
   }
 }
